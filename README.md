@@ -19,8 +19,8 @@ This project demonstrates real-time object detection using YOLOv3-tiny with Open
 
 ## Steps to Run
 Clone the repository:
-### 'git clone https://github.com/FariaRaghib/YOLOV3'
-### 'cd objectdetection'
+### 'git clone https://github.com/FariaRaghib/Object-Detection-with-YOLOv3-Tiny-and-OpenCV'
+### 'cd Object-Detection-with-YOLOv3-Tiny-and-OpenCV'
 
 Install the required dependencies:
 ### 'pip install opencv-python numpy'
